@@ -1,5 +1,5 @@
 :root{
-  --mainGreen:#4dff4d;
+  --mainGreen:#33cc33;
   --mainBlue:#2a2a72;
   --mainWhite:#f3f3f3;
   --lightBlue:#009ffd;
@@ -10,6 +10,11 @@ body{
   font-family: 'Montserrat', sans-serif !important;
   background-color: var(--mainWhite) !important;
   color: var(--mainDark) !important;
+  }
+  .img{
+    width:301px !important;
+    height: auto !important;
+
   }
   .text-title{
     font-family: 'Open Sans', sans-serif;
